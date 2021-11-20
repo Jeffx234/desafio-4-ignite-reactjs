@@ -6,7 +6,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E6">
 </p>
 
-> Terceiro desafio da trilha de ReactJS do Ignite da [Rocketseat](https://github.com/Rocketseat). O projeto consiste em trabalhar os conceitos de Hooks. Rocketshoes é um projeto onde você lista tenis, e consegue adicionar uma determinada quantidade ao carrinho de compras, utilizando JSON Server como API.
+> Quarto desafio da trilha de ReactJS do Ignite da [Rocketseat](https://github.com/Rocketseat). O projeto consiste em transformar JS EM TS e components de class em Functional Components. GoRestaurant é um projeto onde você faz um CRUD completo de comidas.
 
 # :pushpin: Conteúdo
 
@@ -18,8 +18,8 @@
 ### Fotos
 
 <div>
-   <img src="" width="400px" />
-   <img src="" width="400px" />
+   <img src="https://github.com/Jeffx234/desafio-4-ignite-reactjs/blob/master/src/assets/previews/preview1.png" width="400px" />
+   <img src="https://github.com/Jeffx234/desafio-4-ignite-reactjs/blob/master/src/assets/previews/preview2.png" width="400px" />
 </div>
 
 # :computer: Tecnologias
@@ -28,19 +28,20 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
-- [Axios](https://github.com/axios/axios)
-- [Polished](https://github.com/styled-components/polished)
+- [React Modal](https://github.com/reactjs/react-modal)
 - [React Icons](https://react-icons.github.io/react-icons)
-- [React Toastify](https://github.com/fkhadra/react-toastify)
+- [Axios](https://github.com/axios/axios)
+- [Unform](https://github.com/unform/unform)
+- [Yup](https://github.com/jquense/yup)
 - [Styled Components](https://github.com/styled-components/styled-components)
-- [Axios Mock Adapter](https://github.com/ctimmerm/axios-mock-adapter)
 - [JSON Server](https://github.com/typicode/json-server)
+
 
 # :construction_worker: Executando
 
 ```bash
 # Clone o Repositório
-$ https://github.com/Jeffx234/ignite-reactjs-carrinho-de-compras.git
+$ https://github.com/Jeffx234/desafio-4-ignite-reactjs.git
 ```
 
 ```bash
